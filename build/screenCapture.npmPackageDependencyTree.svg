@@ -1,0 +1,21 @@
+<svg height="286" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="286" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">2 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├─┬ bedwetter@1.8.2 </tspan>
+<tspan x="10" y="90">│ ├── async@0.2.10 </tspan>
+<tspan x="10" y="106">│ ├── boom@2.5.1 </tspan>
+<tspan x="10" y="122">│ ├── call@1.0.0 </tspan>
+<tspan x="10" y="138">│ ├── hoek@2.16.3 </tspan>
+<tspan x="10" y="154">│ ├── lodash@2.4.2 </tspan>
+<tspan x="10" y="170">│ ├── merge-defaults@0.1.4 </tspan>
+<tspan x="10" y="186">│ ├── pluralize@0.0.12 </tspan>
+<tspan x="10" y="202">│ ├── UNMET PEER DEPENDENCY waterline@&gt;=0.10.5 &lt;0.11.0</tspan>
+<tspan x="10" y="218">│ └─┬ waterline-to-boom@0.1.1 </tspan>
+<tspan x="10" y="234">│   └── boom@2.6.1 </tspan>
+<tspan x="10" y="250">├── UNMET PEER DEPENDENCY dogwater@&gt;=0.3 &lt;0.5</tspan>
+<tspan x="10" y="266">└── UNMET PEER DEPENDENCY hapi@&gt;=6.x.x</tspan>
+</text>
+</svg>
